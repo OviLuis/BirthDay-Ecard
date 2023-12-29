@@ -2,7 +2,7 @@
   "name": "birthday-ecard",
   "description": "El presente proyecto es una Single Page Application (SPA) de una tarjeta de cumpleaños. Se implemento haciendo uso de Webpack, HTML, CSS, Javascript",
   "version": "1.0.0",
-  "main": "./src/main.js",
+  "main": "src/main.js",
   "devDependencies": {
     "bootstrap": "^5.0.2",
     "css-loader": "^5.2.6",
