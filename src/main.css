@@ -1,0 +1,87 @@
+/*body{
+    background: red;
+    color: white;
+}*/
+
+.bg-ppal{
+    background: #f7e7f1;
+    height: 844px;
+}
+
+.bg-messages{
+    background: #f7e7f1;
+    height: 844px;
+}
+
+.bg-options{
+    /*background: #f7e7f1;*/
+    height: 844px;
+}
+
+.bg-nacionales{
+    /*background: #f7e7f1;*/
+    height: 844px;
+}
+
+.bg-internales{
+    /*background: #f7e7f1;*/
+    height: 844px;
+}
+
+
+#btn-izq{
+    float: right;
+    margin: 3%;
+}
+
+.texto-felix-cumple{
+    color: #800347;
+    font-family: 'Sansita Swashed', cursive;
+}
+
+.texto-title{
+    color: #79263d;
+    font-family: 'Sansita Swashed', cursive;
+}
+
+.texto-normal{
+    color: #79263d;
+}
+
+.cnt-message{
+    /*background: #ffffff;*/
+    background: #fdfbfb;
+    /*width: 30%;
+    height: 50%;*/
+    border: 1px solid #79263d;
+    border-radius: 10px;
+    margin: 10%;
+    box-shadow: 0 3px 5px 0 #dcdedf;
+}
+
+.text-msg{
+    font-family: 'Sansita Swashed', cursive;
+    padding: 3%;
+    color: #172152;
+}
+
+.btn-back{
+    float: left;
+    margin: 3%;
+}
+
+.btn-primary{
+    --bs-btn-bg: #79263d;
+}
+
+.btns-colombia{
+    float: left;
+    margin: 3%;
+}
+.btns-mundo{
+    float: right;
+    margin: 3%;
+}
+
+
+
