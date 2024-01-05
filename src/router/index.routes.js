@@ -17,6 +17,9 @@ const router = (route) => {
         case  '#/options':{
             return content.appendChild(pages.options())
         } 
+        case  '#/seleccion':{
+            return content.appendChild(pages.selection())
+        } 
         case  '#/nacional':{
             return content.appendChild(pages.nacionales())
         } 
